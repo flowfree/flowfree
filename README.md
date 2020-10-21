@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--
 Work hard, stay positive, and get up early. Its the best part of the day. -- _George Allen, Sr._
--->
 
+<!--
 If you fell down yesterday, stand up today. -- _H. G. Wells_
+-->
 
 <!--
 The secret of getting ahead is getting started.
