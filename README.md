@@ -25,8 +25,4 @@ The secret of getting ahead is getting started.
 Start where you are. Use what you have. Do what you can. 
 -- _Arthur Ashe_
 
-> What you think you become.
-> What you feel you attract.
-> What you imagine you create.
->
-> _Buddha_
+What you think you become. What you feel you attract. What you imagine you create. -- _Buddha_
